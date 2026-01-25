@@ -4,6 +4,11 @@
   "type": "module",
   "description": "Clawdbot Feishu/Lark channel plugin",
   "license": "MIT",
+  "files": [
+    "index.ts",
+    "src",
+    "clawdbot.plugin.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/m1heng/clawd-feishu"
